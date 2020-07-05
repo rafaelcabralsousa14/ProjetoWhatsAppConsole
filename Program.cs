@@ -6,7 +6,8 @@ namespace WhatsAppConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Contatos c1 = new Contatos();
+            
         }
     }
 }
